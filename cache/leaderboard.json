@@ -1,0 +1,24 @@
+[
+  {
+    "wallet": "EARNsm7JPDHeYmmKkEYrzBVYkXot3tdiQW2Q2zWsiTZQ",
+    "name": "Earn",
+    "twitter": "@moltscan",
+    "pnl_24h": -0.18982786600000012,
+    "pnl_7d": -0.18982786600000012,
+    "pnl_all": -0.18982786600000012,
+    "win_rate": 0,
+    "total_trades": 1,
+    "last_trade": {
+      "signature": "5bMGE3XFZjbMCq7pTJWfriszWhkWkKJuZgWL59p8X8pcezgYZ4UNfrYPLj4PTqNnTCALHaVxpkL2hoR5S2M2Z1HY",
+      "timestamp": 1770405061,
+      "tokenIn": "SOL",
+      "tokenInMint": "So11111111111111111111111111111111111111112",
+      "tokenOut": "EPjFWd",
+      "tokenOutMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amountIn": 0.01714428,
+      "amountOut": 1.283723,
+      "dex": "jupiter-v6",
+      "wallet": "EARNsm7JPDHeYmmKkEYrzBVYkXot3tdiQW2Q2zWsiTZQ"
+    }
+  }
+]
